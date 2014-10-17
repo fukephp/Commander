@@ -1,0 +1,20 @@
+{
+    "name": "faruk/commander",
+    "description": "",
+    "authors": [
+        {
+            "name": "Faruk Hopic",
+            "email": "fukephp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Faruk\\Commander": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
